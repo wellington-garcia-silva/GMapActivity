@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785543995268",
+    "project_id": "seventh-palace-417218",
+    "storage_bucket": "seventh-palace-417218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785543995268:android:6504c65c1cde97498bc7d1",
+        "android_client_info": {
+          "package_name": "com.example.gmapactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYP93M7axKVO3BKj1UV7ak1jhyjGPn_nQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
